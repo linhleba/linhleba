@@ -6,12 +6,14 @@
 
 ![Linhleba's github stats](https://github-readme-stats.vercel.app/api?username=linhleba&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-I'm a third-year student at the University of Information Technology. I spend most of my time coding and discovering some great stuff.
+### I'm a third-year student at the University of Information Technology. I spend most of my time coding and discovering some great stuff.
 
-- 🎓 I’m currently studying at **UIT**.
-- 😍 I’m really into discovering new things.
-- ✉️ How to reach me: linhleba.it@gmail.com.
-- ⚡ Fun fact: I like playing badminton and games.
+```text
+🎓 I’m currently studying at **UIT**.
+😍 I’m really into discovering new things.
+✉️ How to reach me: linhleba.it@gmail.com.
+⚡ Fun fact: I like playing badminton and games.
+```
 
 #### Top Technologies
 

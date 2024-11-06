@@ -8,10 +8,9 @@
 
 I graduated at the University of Information Technology. I spend most of my time coding and discovering some great stuff.
 
-- 🎓 I’m currently studying at **UIT**.
 - 😍 I’m really into discovering new things.
 - ✉️ How to reach me: linhleba.it@gmail.com.
-- ⚡ Fun fact: I like playing badminton and games.
+- ⚡ Fun fact: I like playing badminton.
 
 #### Top Technologies
 
